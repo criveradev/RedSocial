@@ -118,7 +118,7 @@ Antes de empezar, asegúrate de tener:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/criveradev/RedSocial.git
+git clone https://github.com/criveradev/red-social.git
 cd red-social-mern/backend
 ```
 
@@ -342,8 +342,8 @@ Este proyecto está bajo licencia MIT — ver [LICENSE](./LICENSE) para más det
 
 **Claudio Rivera Bravo**
 
-- GitHub: [@tuusuario](https://github.com/criveradev)
-- LinkedIn: [Tu Nombre](https://linkedin.com/in/criveradev)
+- GitHub: [@criveradev](https://github.com/criveradev)
+- LinkedIn: [Claudio Rivera Bravo](https://linkedin.com/in/criveradev)
 
 
 ---

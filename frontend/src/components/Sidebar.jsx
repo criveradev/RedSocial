@@ -22,7 +22,7 @@ function Sidebar() {
             alt={user.username}
           />
         ) : (
-          <div className="w-10 h-10 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white font-bold">
+          <div className="w-10 h-10 rounded-full bg-linear-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white font-bold">
             {user?.username?.[0]?.toUpperCase()}
           </div>
         )}
@@ -30,7 +30,7 @@ function Sidebar() {
           <p className="font-semibold text-gray-900 text-sm">
             {user?.username}
           </p>
-          <p className="text-xs text-gray-400 truncate max-w-[140px]">
+          <p className="text-xs text-gray-400 truncate max-w-35">
             {user?.email}
           </p>
         </div>
